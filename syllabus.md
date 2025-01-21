@@ -198,15 +198,12 @@ started**
 
 ### Wednesday 15 January
 
--   Course Overview
--   Setting up JupyterHub and R notebooks
--   
+-   Course Overview and Introduction
+-   Collecting data about you
+-   Example of media coverage of scientific study and reading article
 
 
-## Week 2 - Overview of Social Science research
-
--   READINGS: `S&R` Ch. 1 & `W&G` Ch. 2
-    -   <https://r4ds.had.co.nz/explore-intro.html>
+## Week 2 - Introduction and setup
 
 
 ### Monday 20 January ****NO CLASS MLK, Jr. Day****
@@ -214,25 +211,7 @@ started**
 
 ### Wednesday 22 January - Introduction
 
--   Purpose of research
--   Using numbers for social justice
--   Qualitative, Quantitative and Mixed-Methods
--   Quantitative approach to research
-
-
-### QUIZ 1 DUE - Friday 27 January @ 11.59pm
-
--   Submit in Canvas
-
-
-## Week 3 - Ethics and Social Science Research
-
--   READINGS: `S&R` Ch. 2 & `W&G` Ch. 4
-    -   <https://r4ds.had.co.nz/workflow-basics.html>
-
-
-### Monday 27 January - Lab Session
-
+-   Setting up JupyterHub and R notebooks
 -   Introduction to Jupyterhub and Jupyter notebooks
 -   Using Markdown to communicate data analysis
 -   Basics of R for data analysis
@@ -240,22 +219,45 @@ started**
 -   Practice using Markdown and Notebooks
 
 
+### QUIZ 1 DUE - Sunday 29 January @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch, 1 and watch lecture video in Canvas **BEFORE** attempting this quiz
+
+
+## Week 3 - Overview of Social Science research
+
+-   READINGS: `S&R` Ch. 1 & `W&G` Ch. 2
+    -   <https://r4ds.had.co.nz/explore-intro.html>
+
+
+### Monday 27 January -
+
+-   Purpose of research
+-   Using numbers for social justice
+-   Qualitative, Quantitative and Mixed-Methods
+-   Quantitative approach to research
+
+
 ### Wednesday 29 January - Lecture
 
 -   Ethics and Research
 
 
-### QUIZ 2 DUE - Friday 31 January @ 11.59pm
-
--   Submit in Canvas
-
-
-### ASSIGNMENT 1 DUE - Sunday 2 February @ 11.59pm
+### ASSIGNMENT 1 DUE - Friday 31 January @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-## Week 4 - Measurement (1)
+### QUIZ 2 DUE - Sunday 02 February @ 11.59pm
+
+-   Submit in Canvas
+
+
+## Week 4 - Ethics and Social Science Research
+
+-   READINGS: `S&R` Ch. 2 & `W&G` Ch. 4
+    -   <https://r4ds.had.co.nz/workflow-basics.html>
 
 -   READINGS: `S&R` Ch. 3 (pp. 47-54) & `W&G` Ch. 3
     -   <https://r4ds.had.co.nz/data-visualisation.html>
@@ -281,7 +283,7 @@ started**
 -   Submit in Jupyterhub
 
 
-## Week 5 - Measurement (2)
+## Week 5 - Measurement (1)
 
 -   READINGS: `S&R` Ch. 3 (pp. 55-72) & `W&G` Chs. 5, 7 & 15
     -   <https://r4ds.had.co.nz/transform.html>
@@ -311,7 +313,7 @@ started**
 -   Submit in Jupyterhub
 
 
-## Week 6 - Sampling
+## Week 6 - Measurement (2)
 
 -   READINGS: `S&R` Ch. 4 & `W&G` Chs. 5 & 5
     -   <https://r4ds.had.co.nz/transform.html>
@@ -338,7 +340,7 @@ started**
 -   Submit in Jupyterhub
 
 
-## Week 7 - Using Surveys (1)
+## Week 7 - Sampling & Using Surveys (1)
 
 -   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7, 17 & 18
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
@@ -534,4 +536,6 @@ started**
 ### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - TBA
 
 -   Submit in Canvas
+
+
 
