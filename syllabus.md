@@ -187,6 +187,7 @@ on the web etc.
 
 
 
+
 # Schedule
 
 **NOTE: This is a tentative schedule that will change as the course gets
