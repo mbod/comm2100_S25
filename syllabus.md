@@ -6,8 +6,6 @@
 ## Spring 2025
 
 
-
-
 ### Monday/Wednesday 12-1.30pm (Room: ASC 108)
 
 
@@ -57,8 +55,6 @@
     circumstances. Submitting an absence notice does not excuse students
     from their course obligations. But you can view missed class session
     in class recordings in Canvas.
-
-\#+END<sub>COMMENT</sub>
 
 ---
 
@@ -184,8 +180,6 @@ reading, understanding and modifying R code examples that you can find
 on the web etc.
 
 ---
-
-
 
 
 # Schedule
@@ -537,6 +531,4 @@ started**
 ### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - TBA
 
 -   Submit in Canvas
-
-
 
