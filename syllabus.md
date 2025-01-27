@@ -226,17 +226,19 @@ started**
     -   <https://r4ds.had.co.nz/explore-intro.html>
 
 
-### Monday 27 January -
+### Monday 27 January
 
 -   Purpose of research
 -   Using numbers for social justice
 -   Qualitative, Quantitative and Mixed-Methods
 -   Quantitative approach to research
+-   Basics of R data analysis (tidy pipelines and `ggplot`)
 
 
-### Wednesday 29 January - Lecture
+### Wednesday 29 January
 
--   Ethics and Research
+-   The basics of plotting with `ggplot`
+-   Research method stages
 
 
 ### ASSIGNMENT 1 DUE - Friday 31 January @ 11.59pm
@@ -247,6 +249,7 @@ started**
 ### QUIZ 2 DUE - Sunday 02 February @ 11.59pm
 
 -   Submit in Canvas
+-   Please make sure to read `S&R` Ch, 2 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ## Week 4 - Ethics and Social Science Research
@@ -254,31 +257,30 @@ started**
 -   READINGS: `S&R` Ch. 2 & `W&G` Ch. 4
     -   <https://r4ds.had.co.nz/workflow-basics.html>
 
--   READINGS: `S&R` Ch. 3 (pp. 47-54) & `W&G` Ch. 3
-    -   <https://r4ds.had.co.nz/data-visualisation.html>
+
+### Monday 03 February
+
+-   Ethics and Research
 
 
-### Monday 03 February - Lab Session
-
--   The basics of plotting with `ggplot`
+### Wednesday 05 February
 
 
-### Wednesday 05 February - Lecture
-
--   Operationalization
-
-
-### QUIZ 3 DUE - Friday 07 February @ 11.59pm
-
--   Submit in Canvas
-
-
-### ASSIGNMENT 2 DUE - Sunday 09 February @ 11.59pm
+### ASSIGNMENT 2 DUE - Friday 07 February @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
+### QUIZ 3 DUE - Subday 09 February @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch, 3 and watch lecture video in Canvas **BEFORE** attempting this quiz
+
+
 ## Week 5 - Measurement (1)
+
+-   READINGS: `S&R` Ch. 3 (pp. 47-54) & `W&G` Ch. 3
+    -   <https://r4ds.had.co.nz/data-visualisation.html>
 
 -   READINGS: `S&R` Ch. 3 (pp. 55-72) & `W&G` Chs. 5, 7 & 15
     -   <https://r4ds.had.co.nz/transform.html>
@@ -286,14 +288,15 @@ started**
     -   <https://r4ds.had.co.nz/factors.html>
 
 
-### Monday 10 February - Lab Session
+### Monday 10 February
 
+-   Operationalization
 -   Data frames
 -   Data types
 -   Visualization
 
 
-### Wednesday 12 February - Lecture
+### Wednesday 12 February
 
 -   Measurement, Validity & Reliability
 
@@ -320,7 +323,7 @@ started**
 -   Selecting and sampling from a data frame
 
 
-### Wednesday 19 February - Lecture
+### Wednesday 19 February
 
 -   Sampling
 
@@ -343,12 +346,12 @@ started**
     -   <https://r4ds.had.co.nz/pipes.html>
 
 
-### Monday 24 February - Lecture
+### Monday 24 February
 
 -   Using surveys
 
 
-### Wednesday 26 February - Lab Session
+### Wednesday 26 February
 
 -   Working on survey mini project
 
@@ -371,13 +374,13 @@ started**
     -   <https://r4ds.had.co.nz/pipes.html>
 
 
-### Monday 03 March - Lab Session
+### Monday 03 March
 
 -   Inspecting, cleaning and summarizing data
 -   Working on survey mini project
 
 
-### Wednesday 05 March - Lecture
+### Wednesday 05 March
 
 -   Using surveys (part 2)
 
@@ -406,7 +409,7 @@ started**
 -   Grouping/Aggregating data & More visualization
 
 
-### Wednesday 19 March - Lecture
+### Wednesday 19 March
 
 -   Content Analysis (Part 1)
 
@@ -435,7 +438,7 @@ started**
 -   Working on content analysis mini project
 
 
-### Wednesday 26 March - Lecture
+### Wednesday 26 March
 
 -   Content Analysis (Part 2)
 
@@ -456,7 +459,7 @@ started**
 -   Working on Group Content Analysis Project
 
 
-### Wednesday 02 April - Lecture
+### Wednesday 02 April
 
 -   Experimental design
 
@@ -474,7 +477,7 @@ started**
 -   Working on Content Analysis project
 
 
-### Wednesday 09 April - Lab Session
+### Wednesday 09 April
 
 
 ## Week 13 - Calculation and Statistics Overview
@@ -482,13 +485,13 @@ started**
 -   READINGS: `S&R` Chs. 8 (pp. 182-194) & 9 (pp. 201-225)
 
 
-### Monday 14 April - Lecture & Lab Session
+### Monday 14 April  & Lab Session
 
 -   Descriptive statistics and intro to models
 -   Working on Content Analysis project
 
 
-### Wednesday 16 April - Lecture
+### Wednesday 16 April
 
 -   Types of statistics, Hypothesis testing and types of error
 
