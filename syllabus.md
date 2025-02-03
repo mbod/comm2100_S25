@@ -261,6 +261,7 @@ started**
 ### Monday 03 February
 
 -   Ethics and Research
+-   Setting up daily tracking survey using Google Forms
 
 
 ### Wednesday 05 February
@@ -271,13 +272,39 @@ started**
 -   Submit in Jupyterhub
 
 
-### QUIZ 3 DUE - Subday 09 February @ 11.59pm
+### QUIZ 3 DUE - Sunday 09 February @ 11.59pm
 
 -   Submit in Canvas
--   Please make sure to read `S&R` Ch, 3 and watch lecture video in Canvas **BEFORE** attempting this quiz
+-   Please make sure to read `S&R` Ch, 5 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
-## Week 5 - Measurement (1)
+## Week 5 - Sampling & Using Surveys (1)
+
+-   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7
+    -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
+
+
+### Monday 10 February
+
+-   Using surveys
+
+
+### Wednesday 12 February
+
+-   Working on survey mini project
+
+
+### SURVEY MEASURES ASSIGNMENT DUE - Friday 14 February @ 11.59pm
+
+-   **Submit in Canvas**
+
+
+### QUIZ 4 DUE - Sunday 16 February @ 11.59pm
+
+-   Submit in Canvas
+
+
+## Week 6 - Measurement (1)
 
 -   READINGS: `S&R` Ch. 3 (pp. 47-54) & `W&G` Ch. 3
     -   <https://r4ds.had.co.nz/data-visualisation.html>
@@ -288,7 +315,7 @@ started**
     -   <https://r4ds.had.co.nz/factors.html>
 
 
-### Monday 10 February
+### Monday 17 February
 
 -   Operationalization
 -   Data frames
@@ -296,7 +323,7 @@ started**
 -   Visualization
 
 
-### Wednesday 12 February
+### Wednesday 19 February
 
 -   Measurement, Validity & Reliability
 
@@ -311,7 +338,7 @@ started**
 -   Submit in Jupyterhub
 
 
-## Week 6 - Measurement (2)
+## Week 7 - Measurement (2)
 
 -   READINGS: `S&R` Ch. 4 & `W&G` Chs. 5 & 5
     -   <https://r4ds.had.co.nz/transform.html>
@@ -338,35 +365,7 @@ started**
 -   Submit in Jupyterhub
 
 
-## Week 7 - Sampling & Using Surveys (1)
-
--   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7, 17 & 18
-    -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
-    -   <https://r4ds.had.co.nz/program-intro.html>
-    -   <https://r4ds.had.co.nz/pipes.html>
-
-
-### Monday 24 February
-
--   Using surveys
-
-
-### Wednesday 26 February
-
--   Working on survey mini project
-
-
-### QUIZ 6 DUE - Friday 28 February @ 11.59pm
-
--   Submit in Canvas
-
-
-### SURVEY MEASURES ASSIGNMENT (Part 1) DUE - Sunday 02 March @ 11.59pm
-
--   Submit in Canvas
-
-
-## Week 8 - Using Surveys (2)
+## Week 8 - Using Surveys and Interviews
 
 -   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7, 17 & 18
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
@@ -383,6 +382,11 @@ started**
 ### Wednesday 05 March
 
 -   Using surveys (part 2)
+
+
+### SURVEY MEASURES ASSIGNMENT (Part 1) DUE - Sunday 02 March @ 11.59pm
+
+-   Submit in Canvas
 
 
 ### NO QUIZ THIS WEEK
