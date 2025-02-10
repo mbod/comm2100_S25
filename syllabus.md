@@ -278,7 +278,7 @@ started**
 -   Please make sure to read `S&R` Ch, 5 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
-## Week 5 - Sampling & Using Surveys (1)
+## Week 5 - Using Surveys (1)
 
 -   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
@@ -287,14 +287,22 @@ started**
 ### Monday 10 February
 
 -   Using surveys
+-   Working on survey mini project
+-   Using Qualtrics
+
+
+### SURVEY MEASURES ASSIGNMENT (PART 1) DUE - Tuesday 11 February @ 11.59pm
+
+-   **Submit in Canvas**
 
 
 ### Wednesday 12 February
 
--   Working on survey mini project
+-   Cognitive Interviews
+-   Evaluating survey items
 
 
-### SURVEY MEASURES ASSIGNMENT DUE - Friday 14 February @ 11.59pm
+### SURVEY MEASURES ASSIGNMENT (PART 2) DUE - Friday 14 February @ 11.59pm
 
 -   **Submit in Canvas**
 
@@ -302,17 +310,13 @@ started**
 ### QUIZ 4 DUE - Sunday 16 February @ 11.59pm
 
 -   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 3 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
-## Week 6 - Measurement (1)
+## Week 6 - Measurement
 
--   READINGS: `S&R` Ch. 3 (pp. 47-54) & `W&G` Ch. 3
+-   READINGS: `S&R` Ch. 3 & `W&G` Ch. 3
     -   <https://r4ds.had.co.nz/data-visualisation.html>
-
--   READINGS: `S&R` Ch. 3 (pp. 55-72) & `W&G` Chs. 5, 7 & 15
-    -   <https://r4ds.had.co.nz/transform.html>
-    -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
-    -   <https://r4ds.had.co.nz/factors.html>
 
 
 ### Monday 17 February
@@ -328,17 +332,17 @@ started**
 -   Measurement, Validity & Reliability
 
 
-### QUIZ 4 DUE - Friday 14 February @ 11.59pm
-
--   Submit in Canvas
-
-
-### ASSIGNMENT 3 DUE - Sunday 16 February @ 11.59pm
+### ASSIGNMENT 3 DUE - Friday 14 February @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-## Week 7 - Measurement (2)
+### QUIZ 5 DUE - Sunday 16 February @ 11.59pm
+
+-   Submit in Canvas
+
+
+## Week 7 - Sampling
 
 -   READINGS: `S&R` Ch. 4 & `W&G` Chs. 5 & 5
     -   <https://r4ds.had.co.nz/transform.html>
@@ -384,9 +388,10 @@ started**
 -   Using surveys (part 2)
 
 
-### SURVEY MEASURES ASSIGNMENT (Part 1) DUE - Sunday 02 March @ 11.59pm
+### SURVEY MEASURES ASSIGNMENT (Part 1) DUE - Friday 07 March @ 11.59pm
 
 -   Submit in Canvas
+-   One submission per group
 
 
 ### NO QUIZ THIS WEEK
