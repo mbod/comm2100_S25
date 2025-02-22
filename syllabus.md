@@ -332,14 +332,15 @@ started**
 -   Measurement, Validity & Reliability
 
 
-### ASSIGNMENT 3 DUE - Friday 14 February @ 11.59pm
+### ASSIGNMENT 3 DUE - Friday 21 February @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-### QUIZ 5 DUE - Sunday 16 February @ 11.59pm
+### QUIZ 5 DUE - Sunday 23 February @ 11.59pm
 
 -   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 4 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ## Week 7 - Sampling
@@ -349,24 +350,31 @@ started**
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
 
 
-### Monday 17 February - Lab session
+### Monday 24 February - Lab session
 
 -   Selecting and sampling from a data frame
 
 
-### Wednesday 19 February
+### Wednesday 26 February
 
 -   Sampling
 
 
-### QUIZ 5 DUE - Friday 21 February @ 11.59pm
-
--   Submit in Canvas
-
-
-### ASSIGNMENT 4 DUE - Sunday 23 February @ 11.59pm
+### ASSIGNMENT 4 DUE - Friday 28 February @ 11.59pm
 
 -   Submit in Jupyterhub
+
+
+### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Sunday 02 March @ 11.59pm
+
+-   Write up of:
+    1.  Research Idea and Question(s)
+        (and related Hypotheses if appropriate)
+    2.  Conceptual Definitions
+    3.  Interview questions
+    4.  Interview Transcripts
+-   Submit in Canvas
+-   Group submission (one submission per group)
 
 
 ## Week 8 - Using Surveys and Interviews
@@ -379,19 +387,25 @@ started**
 
 ### Monday 03 March
 
+-   Using interviews
 -   Inspecting, cleaning and summarizing data
--   Working on survey mini project
+-   Working on Group Project 1
 
 
 ### Wednesday 05 March
 
--   Using surveys (part 2)
+-   Using interviews and surveys (part 2)
 
 
-### SURVEY MEASURES ASSIGNMENT (Part 1) DUE - Friday 07 March @ 11.59pm
+### GROUP PROJECT 1 - PART B ASSIGNMENT DUE - Friday 07 March @ 11.59pm
 
+-   Write up of:
+    1.  Interview transcripts analysis (themes/topics)
+    2.  Operationalization of concepts
+    3.  Survey questions
+    4.  Create and test Qualtrics survey
 -   Submit in Canvas
--   One submission per group
+-   Group submission (one submission per group)
 
 
 ### NO QUIZ THIS WEEK
@@ -406,76 +420,94 @@ started**
 ### Wednesday 12 March ****NO CLASS****
 
 
-## Week 9 - Content Analysis (1)
+## Week 9 - Using experiments
+
+-   READINGS: `S&R` Ch. 6
+
+
+### Monday 17 March
+
+-   Review of topics and course structure and assignments
+-   R data analysis review
+-   Using experiments
+
+
+### QUIZ 6 DUE - Tuesday 18 March @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 6 and watch lecture video in Canvas **BEFORE** attempting this quiz
+
+
+### Wednesday 19 April
+
+-   Experimental design
+
+
+### ASSIGNMENT 5 DUE - Friday 21 March @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
+### QUIZ 7 DUE - Sunday 23 April @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 7 and watch lecture video in Canvas **BEFORE** attempting this quiz
+
+
+## Week 10 - Content Analysis (1)
 
 -   READINGS: `S&R` Ch. 7 (pp. 154-173) & `W&G` Chs. 7 & 28
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
     -   <https://r4ds.had.co.nz/graphics-for-communication.html>
 
 
-### Monday 17 March - Lab session
+### Monday 24 March
 
 -   Grouping/Aggregating data & More visualization
-
-
-### Wednesday 19 March
-
 -   Content Analysis (Part 1)
+-   Start Group Project 2 (Content and discourse analysis)
 
 
-### QUIZ 7 DUE - Friday 21 March @ 11.59pm
+### Wednesday 26 March
 
--   Submit in Canvas
+-   Content Analysis
 
 
-### ASSIGNMENT 5 DUE - Sunday 23 March @ 11.59pm
+### ASSIGNMENT 6 DUE - Friday 28 March @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-## Week 10 - Content Analysis (2)
+### QUIZ 8 DUE - Sunday 30 March @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read the chapter on Discourse Analysis and watch lecture video in Canvas **BEFORE** attempting this quiz
+
+
+## Week 10 - Content and Discourse Analysis (2)
 
 -   READINGS: `S&R` Ch. 7 (pp. 174-181) & `W&G` Chs. 7 & 28
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
     -   <https://r4ds.had.co.nz/graphics-for-communication.html>
 
 
-### Monday 24 March - Lab session
+### Monday 31 March
 
 -   Examining distributions and associations between variables
 -   Summary visualization
--   Working on content analysis mini project
-
-
-### Wednesday 26 March
-
--   Content Analysis (Part 2)
-
-
-### ASSIGNMENT 6 DUE - Sunday 30 March @ 11.59pm
-
--   Submit in Jupyterhub
-
-
-## Week 11 - Using experiments
-
--   READINGS: `S&R` Ch. 6
-
-
-### Monday 31 March - Lab session
-
--   Set up for Assignment 6 - Quantified Self Data
--   Working on Group Content Analysis Project
+-   Using discourse analysis
+-   Working on Group Project 2
 
 
 ### Wednesday 02 April
 
--   Experimental design
+-   Content Analysis (Part 2)
+-   Discourse Analysis
 
 
-### QUIZ 8 DUE - Friday 04 April @ 11.59pm
+### ASSIGNMENT 7 DUE - Friday 04 April @ 11.59pm
 
--   Submit in Canvas
+-   Submit in Jupyterhub
 
 
 ## Week 12 - Intercoder Reliability (ICR) for Content Analysis
