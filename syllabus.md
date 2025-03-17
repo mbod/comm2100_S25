@@ -432,15 +432,15 @@ started**
 -   Using experiments
 
 
-### QUIZ 6 DUE - Tuesday 18 March @ 11.59pm
-
--   Submit in Canvas
--   Please make sure to read `S&R` Ch. 6 and watch lecture video in Canvas **BEFORE** attempting this quiz
-
-
 ### Wednesday 19 April
 
 -   Experimental design
+
+
+### QUIZ 6 DUE - Thursday 20 March @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 6 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ### ASSIGNMENT 5 DUE - Friday 21 March @ 11.59pm
@@ -448,7 +448,7 @@ started**
 -   Submit in Jupyterhub
 
 
-### QUIZ 7 DUE - Sunday 23 April @ 11.59pm
+### QUIZ 7 DUE - Sunday 23 March @ 11.59pm
 
 -   Submit in Canvas
 -   Please make sure to read `S&R` Ch. 7 and watch lecture video in Canvas **BEFORE** attempting this quiz
