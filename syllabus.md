@@ -437,15 +437,10 @@ started**
 -   Experimental design
 
 
-### QUIZ 6 DUE - Thursday 20 March @ 11.59pm
+### QUIZ 6 DUE - Friday 21 March @ 11.59pm
 
 -   Submit in Canvas
 -   Please make sure to read `S&R` Ch. 6 and watch lecture video in Canvas **BEFORE** attempting this quiz
-
-
-### ASSIGNMENT 5 DUE - Friday 21 March @ 11.59pm
-
--   Submit in Jupyterhub
 
 
 ### QUIZ 7 DUE - Sunday 23 March @ 11.59pm
@@ -473,7 +468,7 @@ started**
 -   Content Analysis
 
 
-### ASSIGNMENT 6 DUE - Friday 28 March @ 11.59pm
+### ASSIGNMENT 5 DUE - Friday 28 March @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -505,7 +500,7 @@ started**
 -   Discourse Analysis
 
 
-### ASSIGNMENT 7 DUE - Friday 04 April @ 11.59pm
+### ASSIGNMENT 6 DUE - Friday 04 April @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -561,6 +556,11 @@ started**
 ### Wednesday 23 April - Lab session
 
 -   Working on data analysis from content analysis mini project
+
+
+### ASSIGNMENT 7 DUE - Friday 25 April @ 11.59pm
+
+-   Submit in Jupyterhub
 
 
 ## Week 15 - Wrapping things up
