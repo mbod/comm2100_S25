@@ -460,23 +460,18 @@ started**
 
 -   Grouping/Aggregating data & More visualization
 -   Content Analysis (Part 1)
--   Start Group Project 2 (Content and discourse analysis)
 
 
 ### Wednesday 26 March
 
 -   Content Analysis
+-   Intercoder Reliability measures
+-   Start Group Project 2 (Content and discourse analysis)
 
 
 ### ASSIGNMENT 5 DUE - Friday 28 March @ 11.59pm
 
 -   Submit in Jupyterhub
-
-
-### QUIZ 8 DUE - Sunday 30 March @ 11.59pm
-
--   Submit in Canvas
--   Please make sure to read the chapter on Discourse Analysis and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ## Week 10 - Content and Discourse Analysis (2)
@@ -494,31 +489,63 @@ started**
 -   Working on Group Project 2
 
 
+### QUIZ 8 DUE - Tuesday 01 April @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read the chapters on Content and Discourse Analysis and watch lecture video in Canvas **BEFORE** attempting this quiz
+    1.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-20/>
+    2.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-21/>
+    3.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-22/>
+    4.  <https://oercollective.caul.edu.au/qualitative-research/chapter/__unknown__-23/>
+
+
 ### Wednesday 02 April
 
 -   Content Analysis (Part 2)
 -   Discourse Analysis
 
 
-### ASSIGNMENT 6 DUE - Friday 04 April @ 11.59pm
+### ASSIGNMENT 6 DUE - Sunday 06 April @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-## Week 12 - Intercoder Reliability (ICR) for Content Analysis
+### QUIZ 9 DUE - Sunday 06 April @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 8 (pp.182-194) and Ch. 11 and watch lecture video in Canvas **BEFORE** attempting this quiz
+
+
+## Week 12 - Intercoder Reliability (ICR) for Content Analysis & Using Mixed-Methods
+
+-   READINGS: `S&R` Chs. 8 (pp. 182-194) & Ch. 11
 
 
 ### Monday 07 April - Lab session
 
 -   Working on Content Analysis project
+-   Mixed-methods
 
 
 ### Wednesday 09 April
 
+-   Intercoder Reliability
+
+
+### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Friday 11 April @ 11.59pm
+
+-   Submit in Canvas
+
+
+### QUIZ 10 DUE - Sunday 13 April @ 11.59pm
+
+-   Submit in Canvas
+-   Please make sure to read `S&R` Ch. 8 (195-202) and Ch. 9 and watch lecture video in Canvas **BEFORE** attempting this quiz
+
 
 ## Week 13 - Calculation and Statistics Overview
 
--   READINGS: `S&R` Chs. 8 (pp. 182-194) & 9 (pp. 201-225)
+-   READINGS: `S&R` Chs. 8 & 9
 
 
 ### Monday 14 April  & Lab Session
@@ -532,19 +559,19 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-### QUIZ 9 DUE - Friday 18 April @ 11.59pm
+### ASSIGNMENT 7 DUE - Friday 18 April @ 11.59pm
 
--   Submit in Canvas
+-   Submit in Jupyterhub
 
 
-### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Sunday 20 April @ 11.59pm
+### QUIZ 10 DUE - Sunday 20 April @ 11.59pm
 
 -   Submit in Canvas
 
 
 ## Week 14 - Making inferences &  Data analysis
 
--   READINGS: `S&R` Chs. 8 (pp. 195-202) & 9 (pp. 226-275)
+-   READINGS: `S&R` Chs. 8 & 9
 
 
 ### Monday 21 April - Lab session
@@ -558,7 +585,7 @@ started**
 -   Working on data analysis from content analysis mini project
 
 
-### ASSIGNMENT 7 DUE - Friday 25 April @ 11.59pm
+### ASSIGNMENT 8 DUE - Friday 25 April @ 11.59pm
 
 -   Submit in Jupyterhub
 
