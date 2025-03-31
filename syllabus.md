@@ -474,7 +474,7 @@ started**
 -   Submit in Jupyterhub
 
 
-## Week 10 - Content and Discourse Analysis (2)
+## Week 11 - Content and Discourse Analysis (2)
 
 -   READINGS: `S&R` Ch. 7 (pp. 174-181) & `W&G` Chs. 7 & 28
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
