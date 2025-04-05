@@ -513,12 +513,12 @@ started**
 ### QUIZ 9 DUE - Sunday 06 April @ 11.59pm
 
 -   Submit in Canvas
--   Please make sure to read `S&R` Ch. 8 (pp.182-194) and Ch. 11 and watch lecture video in Canvas **BEFORE** attempting this quiz
+-   Please make sure to read `S&R` Ch. 8 (pp.182-194) and Ch. 10 and watch lecture video in Canvas **BEFORE** attempting this quiz
 
 
 ## Week 12 - Intercoder Reliability (ICR) for Content Analysis & Using Mixed-Methods
 
--   READINGS: `S&R` Chs. 8 (pp. 182-194) & Ch. 11
+-   READINGS: `S&R` Chs. 8 (pp. 182-194) & Ch. 10
 
 
 ### Monday 07 April - Lab session
