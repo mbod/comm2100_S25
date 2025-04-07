@@ -505,15 +505,10 @@ started**
 -   Discourse Analysis
 
 
-### ASSIGNMENT 6 DUE - Sunday 06 April @ 11.59pm
-
--   Submit in Jupyterhub
-
-
 ### QUIZ 9 DUE - Sunday 06 April @ 11.59pm
 
 -   Submit in Canvas
--   Please make sure to read `S&R` Ch. 8 (pp.182-194) and Ch. 10 and watch lecture video in Canvas **BEFORE** attempting this quiz
+-   Please make sure to read `S&R` Ch. 8 (pp.182-194) and Ch. 10 **BEFORE** attempting this quiz
 
 
 ## Week 12 - Intercoder Reliability (ICR) for Content Analysis & Using Mixed-Methods
@@ -527,14 +522,19 @@ started**
 -   Mixed-methods
 
 
+### ASSIGNMENT 6 DUE - Sunday 06 April @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
 ### Wednesday 09 April
 
 -   Intercoder Reliability
 
 
-### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Friday 11 April @ 11.59pm
+### ASSIGNMENT 7 DUE - Friday 11 April @ 11.59pm
 
--   Submit in Canvas
+-   Submit in Jupyterhub
 
 
 ### QUIZ 10 DUE - Sunday 13 April @ 11.59pm
@@ -559,12 +559,7 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-### ASSIGNMENT 7 DUE - Friday 18 April @ 11.59pm
-
--   Submit in Jupyterhub
-
-
-### QUIZ 10 DUE - Sunday 20 April @ 11.59pm
+### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Friday 18 April @ 11.59pm
 
 -   Submit in Canvas
 
