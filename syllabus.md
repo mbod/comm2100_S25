@@ -522,7 +522,7 @@ started**
 -   Mixed-methods
 
 
-### ASSIGNMENT 6 DUE - Sunday 06 April @ 11.59pm
+### ASSIGNMENT 6 DUE - Monday 07 April @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -530,11 +530,6 @@ started**
 ### Wednesday 09 April
 
 -   Intercoder Reliability
-
-
-### ASSIGNMENT 7 DUE - Friday 11 April @ 11.59pm
-
--   Submit in Jupyterhub
 
 
 ### QUIZ 10 DUE - Sunday 13 April @ 11.59pm
@@ -559,7 +554,12 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Friday 18 April @ 11.59pm
+### ASSIGNMENT 7 DUE - Wednesday 11 April @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
+### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Sunday 20 April @ 11.59pm
 
 -   Submit in Canvas
 
@@ -594,7 +594,7 @@ started**
 ### Wednesday 30 April
 
 
-### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - TBA
+### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - 13 May @ 11.59pm
 
 -   Submit in Canvas
 
